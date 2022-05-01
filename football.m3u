@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/166086783-0ffcf7e7-4724-4559-9fb0-2238376d22e9.png" tvg-id="", Strasbourg vs Paris Saint Germain | BLV Cáp Tần | 30.04.2022
+#EXTINF:-1 group-title="Kplus Sports (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/166132702-08d07366-f1e6-425f-9ec2-2e1fb087625c.jpg", 21:00 30/04/2022 Watford vs Burnley (K+ SPORT 1)
+https://raw.githubusercontent.com/cdn-free/cuddly-octo-journey/main/file.m3u8
+
+#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/166086783-0ffcf7e7-4724-4559-9fb0-2238376d22e9.png", Strasbourg vs Paris Saint Germain | BLV Cáp Tần | 30.04.2022
 https://raw.githubusercontent.com/cdn-free/laughing-meme/master/file.m3u8
-#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/165705843-28008a7b-be56-47c6-b7c5-c7244281da60.png" tvg-id="", Liverpool vs Villarreal | BLV Cáp Tần ft Người Thỏ | 28.4.2022
+#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/165705843-28008a7b-be56-47c6-b7c5-c7244281da60.png", Liverpool vs Villarreal | BLV Cáp Tần ft Người Thỏ | 28.4.2022
 https://raw.githubusercontent.com/cdn-free/refactored-octo-computing-machine/master/file.m3u8
-#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/81548049/164983701-2d6bfedc-c40a-4f9a-9a02-0f9a053307ae.png" tvg-id="", Chelsea - West Ham United | BLV Cáp Tần (link2 có chat) SV1
+#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/81548049/164983701-2d6bfedc-c40a-4f9a-9a02-0f9a053307ae.png", Chelsea - West Ham United | BLV Cáp Tần (link2 có chat) SV1
 https://raw.githubusercontent.com/cdn-free/stunning-guide/master/file.m3u8
-#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/81548049/164983701-2d6bfedc-c40a-4f9a-9a02-0f9a053307ae.png" tvg-id="", Chelsea - West Ham United | BLV Cáp Tần (link2 có chat) SV2
+#EXTINF:-1 group-title="coilai.com (github)" tvg-logo="https://user-images.githubusercontent.com/81548049/164983701-2d6bfedc-c40a-4f9a-9a02-0f9a053307ae.png", Chelsea - West Ham United | BLV Cáp Tần (link2 có chat) SV2
 https://raw.githubusercontent.com/cdn-free/probable-eureka/master/file.m3u8
 
 #EXTINF:-1 group-title="hunganhfb (github)" tvg-logo="https://user-images.githubusercontent.com/75318518/166104614-380896ff-6669-43bd-b16d-3dd063534f54.png" tvg-id="626ad573a97e79001c2b8b86", 02:00 29/04/2022 Leicester vs Roma (Âu men)
