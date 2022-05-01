@@ -5,7 +5,7 @@
 
 
 
-#EXTINF:-1 group-title="Kplus" tvg-logo="",K+ Cine HD
+#EXTINF:-1 group-title="Kplus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg",K+ Cine HD
 #EXTVLCOPT:http-referrer=https://fptplay.vn/
 https://live-drm.fptplay.net/MjQ3NzIyNTB8MjcwODIwMjFrMV8yMDAwLnN0cmVhbXx2bnB0fDE2NTE0NDg5OTV8MTQuMjU1LjE0OC4yNDl8NzVhZDg0NTk3MTBlZTIyMGM5NzYxODlhOWFjMjZkZDM/webplus/27082021k1_2000.stream/manifest.mpd|Referer=https://fptplay.vn/
 
