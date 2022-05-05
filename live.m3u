@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/166178450-d89ec647-182c-444d-be67-bfe780eed478.png" group-title="Kplus - Test",K+ Sport 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
 
