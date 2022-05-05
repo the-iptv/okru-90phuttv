@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/166178450-d89ec647-182c-444d-be67-bfe780eed478.png" group-title="Kplus - Test",K+ Sport 1
-#KODIPROP:inputstream.adaptive.license_type=fptplay.vn
+#KODIPROP:inputstream.adaptive.license_type=live-drm.fptplay.net
 #KODIPROP:inputstream.adaptive.license_key=https://sentry.fptplay.net/api/10/envelope/?sentry_key=68bc5854cdcb45b38d59942f6c5f1725&sentry_version=7
 https://live-drm.fptplay.net/MjQ3NzIyNTB8MTQwMjIwMjJrMXNwb3J0MXdlYl8yMDAwLnN0cmVhbXx2bnB0fDE2NTE3NDM2MTV8MTQuMjU1LjE0OC4yNDl8MWI3YjBhYjJjOTM0YjVlYzg4ODdmMWNjOTNhODYxNWQ/webplus/14022022k1sport1web_2000.stream/manifest.mpd
 
