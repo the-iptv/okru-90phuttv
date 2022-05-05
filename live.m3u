@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/75318518/166178450-d89ec647-182c-444d-be67-bfe780eed478.png" group-title="Kplus - Test",K+ Sport 1
-#KODIPROP:inputstream.adaptive.license_type=live-drm.fptplay.net
-#KODIPROP:inputstream.adaptive.license_key=https://pl.fptplay.net/i?p=web-playfpt&av=1.0.1&tna=fplay&tv=1.1.0&eid=badf709a-0fc0-4d4b-822e-6f7880f5dc76&did=e31e796b-7307-4478-bf21-98e23dfd01ed&tz=UTC%2B07:00&dtm=2022-05-05+16:47:06.351&res=1600x900&aid=fptplay_test&ast=1651743834209&dmf=Chrome&dml=101.0495141&ost=Windows&ov=6.1&dvt=pc&uid=43655293&ela=kpm&epr=K%2B+Sport+1+HD&type=livetv&tpe=kplus&pn=shaka&pl_st=1651744026350&curs=229873.503008&prf=720p&plf=229873.503008&pc=1&eac=pg&drt=widevine&eca=livetv
-https://live-drm.fptplay.net/MjQ3NzIyNTB8MTQwMjIwMjJrMXNwb3J0MXdlYl8yMDAwLnN0cmVhbXx2bnB0fDE2NTE3NDM2MTV8MTQuMjU1LjE0OC4yNDl8MWI3YjBhYjJjOTM0YjVlYzg4ODdmMWNjOTNhODYxNWQ/webplus/14022022k1sport1web_2000.stream/manifest.mpd
-
 
 
 #EXTINF:-1 group-title="Kplus" tvg-logo="https://user-images.githubusercontent.com/75318518/166178450-d89ec647-182c-444d-be67-bfe780eed478.png", K+ Sport 1 (live 11:36 05/05/2022)
